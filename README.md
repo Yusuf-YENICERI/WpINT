@@ -1,7 +1,7 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/38917909/199174381-bc550221-ca40-46d5-9b6d-5176807eeac4.png" />
-  <h3>WpINT</h3>
+  <h3>WordPress Intelligence</h3>
   <br/>
   <span>Find wordpress websites online by account usernames</span>
 </div>
